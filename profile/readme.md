@@ -19,7 +19,6 @@ We are the creators of **MultiLinguaTranscribe**, a cutting-edge AI-driven web s
 ---
 
 # 🌐 Socials:  
-[Website Link]  
 [[Twitter Link](https://x.com/multilinguatsc)]  
 
 ---
